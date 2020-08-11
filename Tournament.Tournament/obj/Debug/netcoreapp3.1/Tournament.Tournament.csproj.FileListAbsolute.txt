@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\bin\Debug\netcoreapp3.1\Tournament.Tournament.deps.json
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\bin\Debug\netcoreapp3.1\Tournament.Tournament.dll
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\bin\Debug\netcoreapp3.1\Tournament.Tournament.pdb
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.dll
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.pdb

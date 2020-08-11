@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Contracts\bin\Debug\netcoreapp3.1\Tournament.Contracts.deps.json
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Contracts\bin\Debug\netcoreapp3.1\Tournament.Contracts.dll
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Contracts\bin\Debug\netcoreapp3.1\Tournament.Contracts.pdb
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Contracts\obj\Debug\netcoreapp3.1\Tournament.Contracts.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Contracts\obj\Debug\netcoreapp3.1\Tournament.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Contracts\obj\Debug\netcoreapp3.1\Tournament.Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Contracts\obj\Debug\netcoreapp3.1\Tournament.Contracts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Contracts\obj\Debug\netcoreapp3.1\Tournament.Contracts.dll
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Contracts\obj\Debug\netcoreapp3.1\Tournament.Contracts.pdb

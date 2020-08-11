@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tournament.Contracts/1.0.0": {
+        "runtime": {
+          "Tournament.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tournament.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

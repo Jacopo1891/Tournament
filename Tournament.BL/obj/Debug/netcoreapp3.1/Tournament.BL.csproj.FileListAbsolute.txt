@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\obj\Debug\netcoreapp3.1\Tournament.BL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\obj\Debug\netcoreapp3.1\Tournament.BL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\obj\Debug\netcoreapp3.1\Tournament.BL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\obj\Debug\netcoreapp3.1\Tournament.BL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\bin\Debug\netcoreapp3.1\Tournament.BL.deps.json
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\bin\Debug\netcoreapp3.1\Tournament.BL.dll
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\bin\Debug\netcoreapp3.1\Tournament.BL.pdb
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\bin\Debug\netcoreapp3.1\Tournament.Contracts.dll
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\bin\Debug\netcoreapp3.1\Tournament.DB.dll
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\bin\Debug\netcoreapp3.1\Tournament.Utilities.dll
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\bin\Debug\netcoreapp3.1\Tournament.DB.pdb
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\bin\Debug\netcoreapp3.1\Tournament.Utilities.pdb
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\bin\Debug\netcoreapp3.1\Tournament.Contracts.pdb
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\obj\Debug\netcoreapp3.1\Tournament.BL.csproj.CopyComplete
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\obj\Debug\netcoreapp3.1\Tournament.BL.dll
+C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.BL\obj\Debug\netcoreapp3.1\Tournament.BL.pdb
