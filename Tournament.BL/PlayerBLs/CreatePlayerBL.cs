@@ -8,7 +8,7 @@ namespace Tournament.BL.PlayerBLs
     {
         public bool Do()
         {
-            throw new NotImplementedException();
+            return true;
         }
 
         public void Validate()
