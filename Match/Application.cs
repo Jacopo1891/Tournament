@@ -6,7 +6,8 @@ namespace Match
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to Match program by J Edgar");
+            Console.ReadKey();
         }
     }
 }
