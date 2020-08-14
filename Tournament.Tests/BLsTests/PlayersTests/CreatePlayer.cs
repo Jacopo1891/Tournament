@@ -9,10 +9,10 @@ namespace Tournament.Tests.BLsTests.PlayersTests
 {
     public class CreatePlayer : TournamentBaseBLTest
     {
-        private readonly PlayerBL _playerBL;
+        private readonly PlayersBL _playerBL;
         public CreatePlayer() : base()
         {
-            _playerBL = new PlayerBL(_playerRepositoryMock.Object);
+            _playerBL = new PlayersBL(_playerRepositoryMock.Object);
         }
 
         [Fact]

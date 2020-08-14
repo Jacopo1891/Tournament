@@ -12,10 +12,10 @@ using Tournament.DB.Interfaces;
 
 namespace Tournament.BL
 {
-    public class PlayerBL : TournamentBL
+    public class PlayersBL : TournamentBL
     {
         private PlayerAutoMapper mapperPlayer;
-        public PlayerBL(IPlayerRepository playerRepository)
+        public PlayersBL(IPlayerRepository playerRepository)
         {
             this.PlayerRepository = playerRepository;
             this.mapperPlayer = new PlayerAutoMapper();

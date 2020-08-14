@@ -7,3 +7,11 @@ C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\obj\Debu
 C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.AssemblyInfo.cs
 C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.dll
 C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.pdb
+C:\Users\alex4\source\repos\Tournament\Tournament.Tournament\bin\Debug\netcoreapp3.1\Tournament.Tournament.deps.json
+C:\Users\alex4\source\repos\Tournament\Tournament.Tournament\bin\Debug\netcoreapp3.1\Tournament.Tournament.dll
+C:\Users\alex4\source\repos\Tournament\Tournament.Tournament\bin\Debug\netcoreapp3.1\Tournament.Tournament.pdb
+C:\Users\alex4\source\repos\Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.AssemblyInfoInputs.cache
+C:\Users\alex4\source\repos\Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.AssemblyInfo.cs
+C:\Users\alex4\source\repos\Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.csproj.CoreCompileInputs.cache
+C:\Users\alex4\source\repos\Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.dll
+C:\Users\alex4\source\repos\Tournament\Tournament.Tournament\obj\Debug\netcoreapp3.1\Tournament.Tournament.pdb

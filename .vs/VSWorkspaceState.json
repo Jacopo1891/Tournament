@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Tournament.BL",
+    "\\Tournament.Tests",
+    "\\Tournament.Tests\\BLsTests",
+    "\\Tournament.Tournament"
+  ],
+  "SelectedNode": "\\Tournament.Tests\\BLsTests\\TournamentBaseBLTest.cs",
+  "PreviewInSolutionExplorer": false
+}

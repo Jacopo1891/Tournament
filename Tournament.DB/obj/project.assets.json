@@ -5018,19 +5018,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\alex4\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.DB\\Tournament.DB.csproj",
+      "projectUniqueName": "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.DB\\Tournament.DB.csproj",
       "projectName": "Tournament.DB",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.DB\\Tournament.DB.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.DB\\obj\\",
+      "projectPath": "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.DB\\Tournament.DB.csproj",
+      "packagesPath": "C:\\Users\\alex4\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.DB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alex4\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5043,8 +5043,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.Contracts\\Tournament.Contracts.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.Contracts\\Tournament.Contracts.csproj"
+            "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.Contracts\\Tournament.Contracts.csproj": {
+              "projectPath": "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.Contracts\\Tournament.Contracts.csproj"
             }
           }
         }
@@ -5094,7 +5094,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

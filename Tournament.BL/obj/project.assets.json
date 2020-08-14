@@ -5051,19 +5051,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\alex4\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.BL\\Tournament.BL.csproj",
+      "projectUniqueName": "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.BL\\Tournament.BL.csproj",
       "projectName": "Tournament.BL",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.BL\\Tournament.BL.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.BL\\obj\\",
+      "projectPath": "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.BL\\Tournament.BL.csproj",
+      "packagesPath": "C:\\Users\\alex4\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alex4\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5076,11 +5076,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.DB\\Tournament.DB.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.DB\\Tournament.DB.csproj"
+            "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.DB\\Tournament.DB.csproj": {
+              "projectPath": "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.DB\\Tournament.DB.csproj"
             },
-            "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.Utilities\\Tournament.Utilities.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Tournament.Tournament\\Tournament.Utilities\\Tournament.Utilities.csproj"
+            "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.Utilities\\Tournament.Utilities.csproj": {
+              "projectPath": "C:\\Users\\alex4\\Source\\Repos\\Tournament\\Tournament.Utilities\\Tournament.Utilities.csproj"
             }
           }
         }
@@ -5118,7 +5118,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
