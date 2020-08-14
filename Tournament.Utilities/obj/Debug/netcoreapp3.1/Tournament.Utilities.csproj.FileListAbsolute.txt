@@ -15,4 +15,3 @@ C:\Users\alex4\source\repos\Tournament\Tournament.Utilities\obj\Debug\netcoreapp
 C:\Users\alex4\source\repos\Tournament\Tournament.Utilities\obj\Debug\netcoreapp3.1\Tournament.Utilities.csproj.CoreCompileInputs.cache
 C:\Users\alex4\source\repos\Tournament\Tournament.Utilities\obj\Debug\netcoreapp3.1\Tournament.Utilities.dll
 C:\Users\alex4\source\repos\Tournament\Tournament.Utilities\obj\Debug\netcoreapp3.1\Tournament.Utilities.pdb
-C:\Users\alex4\Source\Repos\Tournament\Tournament.Utilities\obj\Debug\netcoreapp3.1\Tournament.Utilities.csprojAssemblyReference.cache

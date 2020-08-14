@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using Tournament.Contracts.EntitiesDB;
-using Tournament.Tests.BLsTests.PlayersTests;
+//using Tournament.Tests.BLsTests.PlayersTests;
 
 namespace Tournament.Tests.MockEntitiesCreators.Players
 {

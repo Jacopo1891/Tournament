@@ -10,7 +10,6 @@ C:\Users\Admin\source\repos\Tournament.Tournament\Tournament.Contracts\obj\Debug
 C:\Users\alex4\source\repos\Tournament\Tournament.Contracts\bin\Debug\netcoreapp3.1\Tournament.Contracts.deps.json
 C:\Users\alex4\source\repos\Tournament\Tournament.Contracts\bin\Debug\netcoreapp3.1\Tournament.Contracts.dll
 C:\Users\alex4\source\repos\Tournament\Tournament.Contracts\bin\Debug\netcoreapp3.1\Tournament.Contracts.pdb
-C:\Users\alex4\source\repos\Tournament\Tournament.Contracts\obj\Debug\netcoreapp3.1\Tournament.Contracts.csprojAssemblyReference.cache
 C:\Users\alex4\source\repos\Tournament\Tournament.Contracts\obj\Debug\netcoreapp3.1\Tournament.Contracts.AssemblyInfoInputs.cache
 C:\Users\alex4\source\repos\Tournament\Tournament.Contracts\obj\Debug\netcoreapp3.1\Tournament.Contracts.AssemblyInfo.cs
 C:\Users\alex4\source\repos\Tournament\Tournament.Contracts\obj\Debug\netcoreapp3.1\Tournament.Contracts.csproj.CoreCompileInputs.cache
