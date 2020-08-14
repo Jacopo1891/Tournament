@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
 using System.Threading.Tasks;
 
 namespace Tournament.DB
@@ -45,6 +47,12 @@ namespace Tournament.DB
         public async Task Save()
         {
             await _TournamentContext.SaveChangesAsync();
+        }
+
+        public async Task<List<TEntity>> FindBy(Expression<Func<TEntity, bool>> expression)
+        {
+            return await _TournamentContext.Set<TEntity>()
+                        .Where(expression).AsNoTracking().ToListAsync();
         }
     }
 }

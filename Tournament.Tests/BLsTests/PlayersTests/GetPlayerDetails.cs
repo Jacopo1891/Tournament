@@ -1,12 +1,11 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Tournament.BL;
 using Tournament.Contracts.Commons.Exceptions;
-using Tournament.Tests.MockEntitiesCreators;
+using Tournament.Tests.MockEntitiesCreators.Players;
 using Xunit;
 using Requests = Tournament.Contracts.DTOs.Players.Requests;
 
-namespace Tournament.Tests.BLsTests.PlayerTests
+namespace Tournament.Tests.BLsTests.PlayersTests
 {
     public class GetPlayerDetails : TournamentBaseBLTest
     {
@@ -19,8 +18,8 @@ namespace Tournament.Tests.BLsTests.PlayerTests
         [Fact]
         public async Task GetPlayerDetails_Player_Exists()
         {
-            SetupMockDataAsync();
-            var playerDB = PlayerMockCreator.CreateMockPlayer();
+            MockPlayerGetById();
+            var playerDB = PlayerMockCreator.CreateMockPlayerOnDB();
 
             var playerDTO = await _playerBL.GetPlayerDetails(new Requests.GetPlayerDetailsRequest { Id = playerDB.Id });
 

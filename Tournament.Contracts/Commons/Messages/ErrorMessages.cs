@@ -8,5 +8,6 @@ namespace Tournament.Contracts.Commons.Messages
         private static TextInfo textFormatter = new CultureInfo("en-US", false).TextInfo;
 
         public static string EntityNotFound(string entity) => $"{textFormatter.ToTitleCase(entity)} not found.";
+        public static string UsernameAlreadyExists() => $"Username already in exists.";
     }
 }

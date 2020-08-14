@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq.Expressions;
 using System.Threading.Tasks;
 
 namespace Tournament.DB
@@ -16,5 +18,7 @@ namespace Tournament.DB
         Task Delete(int id);
 
         Task Save();
+
+        Task<List<T>> FindBy(Expression<Func<T, bool>> expression);
     }
 }
